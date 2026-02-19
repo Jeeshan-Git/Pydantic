@@ -1,9 +1,9 @@
-## Pydantic Practice (v2)
+# Pydantic Practice (v2)
 
 This repository contains my hands-on practice with Pydantic v2 while learning backend development with FastAPI.
 I created small focused examples to understand how data validation works in real-world backend systems.
 
-# What’s Covered
+## What’s Covered
 
 1. Field constraints using Field and Annotated
 2. Type validation (PositiveInt, Literal, Optional, List)
@@ -15,14 +15,14 @@ I created small focused examples to understand how data validation works in real
 8. Basic FastAPI setup
 Each file focuses on one concept so that it’s easy to understand and test individually.
 
-# Why I Built This
+## Why I Built This
 
 While learning backend development, I realized that proper data validation is critical.
 Instead of just watching tutorials, I wrote small examples to test each feature myself.
 
 This repo is part of my backend foundation building.
 
-# Tech Stack
+## Tech Stack
 
 * Python 3.10+
 * Pydantic v2
